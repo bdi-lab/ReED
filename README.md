@@ -11,7 +11,7 @@ All codes are written by Jaejun Lee (jjlee98@kaist.ac.kr). When you use this cod
 	title={{PAC}-Bayesian Generalization Bounds for Knowledge Graph Representation Learning},
 	booktitle={Proceedings of the 41st International Conference on Machine Learning},
 	year={2024},
-	pages={26589-26620}
+	pages={26589--26620}
 }
 ```
 
