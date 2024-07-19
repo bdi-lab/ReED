@@ -8,7 +8,7 @@ All codes are written by Jaejun Lee (jjlee98@kaist.ac.kr). When you use this cod
 ```bibtex
 @inproceedings{reed,
 	author={Jaejun Lee and Minsung Hwang and Joyce Jiyoung Whang},
-	title={{PAC}-Bayesian Generalization Bounds for Knowledge Graph Representation Learning},
+	title={{PAC}-{B}ayesian Generalization Bounds for Knowledge Graph Representation Learning},
 	booktitle={Proceedings of the 41st International Conference on Machine Learning},
 	year={2024},
 	pages={26589--26620}
