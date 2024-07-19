@@ -1,6 +1,6 @@
 ## PAC-Bayesian Generalization Bounds for Knowledge Graph Representation Learning
 
-This is the official code and data of the following [paper](https://arxiv.org/abs/2405.06418):
+This is the official code and data of the following [paper](https://proceedings.mlr.press/v235/lee24i.html):
 > Jaejun Lee, Minsung Hwang, and Joyce Jiyoung Whang, PAC-Bayesian Generalization Bounds for Knowledge Graph Representation Learning, The 41st International Conference on Machine Learning (ICML), 2024.
 
 All codes are written by Jaejun Lee (jjlee98@kaist.ac.kr). When you use this code or data, please cite our paper.
@@ -9,9 +9,9 @@ All codes are written by Jaejun Lee (jjlee98@kaist.ac.kr). When you use this cod
 @inproceedings{reed,
 	author={Jaejun Lee and Minsung Hwang and Joyce Jiyoung Whang},
 	title={{PAC}-Bayesian Generalization Bounds for Knowledge Graph Representation Learning},
-	booktitle={arXiv preprint},
+	booktitle={Proceedings of the 41st International Conference on Machine Learning},
 	year={2024},
-	pages={}
+	pages={26589-26620}
 }
 ```
 
